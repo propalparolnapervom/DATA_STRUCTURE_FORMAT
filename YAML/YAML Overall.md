@@ -49,6 +49,7 @@ List of dictionary (replacing each of the list values by dictionaries):
 
 
 Dictionary - Unsorted
+
 List - Sorted
 
 ![Sorting](https://github.com/propalparolnapervom/OVERALL/blob/master/Pictures/yaml_sorting.png "Sorting")
