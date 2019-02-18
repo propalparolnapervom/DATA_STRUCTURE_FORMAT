@@ -7,6 +7,8 @@ How to handle JSON-format.
 
 ## READ
 
+[Examples 1](https://shapeshed.com/jq-json/)
+
 Show only value of the `name` field
 
 ```
